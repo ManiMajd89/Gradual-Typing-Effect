@@ -1,4 +1,5 @@
-# Gradual-Typing-Effect
+# Gradual Typing Effect
+
 ## Overview
 The Gradual Typing Effect is a Python script that simulates a typing effect for any given text. This project is designed to mimic the look of text being typed out slowly, letter by letter, just like in old hacker movies. It's a fun way to showcase programming skills and create an engaging visual effect for text display.
 
